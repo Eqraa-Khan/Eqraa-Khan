@@ -14,7 +14,7 @@
 
 ## 🌒 a little about me
 
-Hi, I’m Eqraa. I study Computer Science at the **University of Toronto**, with a focus on **Technology Leadership** and a minor in **Critical Studies in Equity and Solidarity**.
+Hi, I’m Eqraa! I'm a Computer Science Specialist student at the **University of Toronto**, focused on **Technology Leadership** and minoring in **Critical Studies in Equity and Solidarity**.
 
 I like projects that bring people together or make a place feel a little safer and more accessible. I’m especially interested in community development, game design, and the human side of technology.
 
