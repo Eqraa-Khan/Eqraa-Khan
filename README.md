@@ -6,9 +6,9 @@
 
   <p><strong>Computer Science Specialist student at the University of Toronto</strong><br />Building things for people</p>
 
-  <a href="https://www.linkedin.com/in/eqraa-khan/"><img src="https://img.shields.io/badge/LinkedIn-0B1A33?style=flat-square&logo=linkedin&logoColor=9CCBFF" alt="LinkedIn" /></a>
-  <a href="https://github.com/Eqraa-Khan"><img src="https://img.shields.io/badge/GitHub-0B1A33?style=flat-square&logo=github&logoColor=EAF3FF" alt="GitHub" /></a>
-  <a href="https://devpost.com/eqraakhan3"><img src="https://img.shields.io/badge/Devpost-0B1A33?style=flat-square&logo=devpost&logoColor=9CCBFF" alt="Devpost" /></a>
+  <a href="https://www.linkedin.com/in/eqraa-khan/"><img src="https://img.shields.io/badge/%20-%20-0B1A33?style=for-the-badge&logo=linkedin&logoColor=9CCBFF" alt="LinkedIn" /></a>
+  <a href="https://github.com/Eqraa-Khan"><img src="https://img.shields.io/badge/%20-%20-0B1A33?style=for-the-badge&logo=github&logoColor=EAF3FF" alt="GitHub" /></a>
+  <a href="https://devpost.com/eqraakhan3"><img src="https://img.shields.io/badge/%20-%20-0B1A33?style=for-the-badge&logo=devpost&logoColor=9CCBFF" alt="Devpost" /></a>
 </div>
 
 <p align="center"><img src="images/divider.gif" width="100%" height="20" alt="Midnight-blue divider" /></p>
@@ -28,8 +28,8 @@ I like projects that bring people together or make a place feel safer and more a
 
 ## Selected work
 
-- **[Silent Signal](https://github.com/Eqraa-Khan/Silent-Signal)** - An anonymous student check-in platform about the barriers students face. I built most of the full-stack product and user flows.<br />`Python` · `FastAPI` · `SQLite` · `JavaScript` · `Claude API`
-- **[Board Game Recommender System](https://github.com/Eqraa-Khan/Board-Game-Recommender-System)** - A board game discovery project that uses scraped data to help people find their next game.<br />`Python` · `Scrapy` · `Web scraping`
+- **[Silent Signal](https://github.com/Eqraa-Khan/Silent-Signal)** - An anonymous student check-in platform about the barriers students face. I built most of the full-stack product and user flows.<br />`Python` • `FastAPI` • `SQLite` • `JavaScript` • `Claude API`
+- **[Board Game Recommender System](https://github.com/Eqraa-Khan/Board-Game-Recommender-System)** - A board game discovery project that uses scraped data to help people find their next game.<br />`Python` • `Scrapy` • `Web scraping`
 - **[Written Papers](https://github.com/Eqraa-Khan/Written-Papers)** - Essays and research on critical disability studies, colonial histories, South Asian families, and policy.
 - **ClickTravel** - An AI travel planner that builds itineraries around a traveler's budget and preferences. I worked on the backend and Gemini API integration.
 
