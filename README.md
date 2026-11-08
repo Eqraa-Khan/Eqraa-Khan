@@ -8,6 +8,19 @@
   </p>
 </div>
 
+<details>
+  <summary>🦇 Open Marceline’s midnight corner</summary>
+  <br />
+  <p>A little Adventure Time-inspired night mode: midnight colors, vampire vibes, and a few places to wander.</p>
+  <p>
+    <a href="#-a-little-about-me">Meet me</a> ·
+    <a href="#-selected-work">Explore my work</a> ·
+    <a href="#-in-my-toolkit">Browse my toolkit</a> ·
+    <a href="https://www.tumblr.com/reechuillustrations/162212691424/marceline-the-vampire-queen-just-chillin-by-the">Marceline art inspiration</a>
+  </p>
+  <p>🎸 Keep it spooky, keep it creative, and stay up for one more song.</p>
+</details>
+
 ## 🌒 a little about me
 
 Hi, I’m Eqraa — a Computer Science Specialist student at the **University of Toronto**, focused on **Technology Leadership** and minoring in **Critical Studies in Equity and Solidarity**.
