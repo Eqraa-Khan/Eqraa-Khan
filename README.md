@@ -1,30 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080611,45:24112f,75:4b1d59,100:9b4d79&height=240&section=header&text=Eqraa%20Khan&fontSize=58&fontColor=f7e9ff&animation=fadeIn&fontAlign=50&fontAlignY=38&fontFamily=Miasma&fontURL=https://www.fontspace.com/download/miasma/miasma.ttf" alt="Eqraa Khan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=900&color=D8A9BA&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Eqraa;CS+student+at+the+University+of+Toronto;Building+things+for+people" alt="Typing introduction" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080611,45:24112f,75:4b1d59,100:9b4d79&height=220&section=header&text=Eqraa%20Khan&fontSize=58&fontColor=f7e9ff&animation=fadeIn&fontAlign=50&fontAlignY=38&fontFamily=Miasma&fontURL=https://www.fontspace.com/download/miasma/miasma.ttf" alt="Eqraa Khan" />
 
   <p>
-    <a href="https://www.linkedin.com/in/eqraa-khan/"><img src="https://img.shields.io/badge/LinkedIn-170f22?style=for-the-badge&logo=linkedin&logoColor=e7a8e8" alt="LinkedIn" /></a>
-    <a href="https://github.com/Eqraa-Khan"><img src="https://img.shields.io/badge/GitHub-170f22?style=for-the-badge&logo=github&logoColor=f4d7ff" alt="GitHub" /></a>
-    <a href="https://devpost.com/eqraakhan3"><img src="https://img.shields.io/badge/Devpost-170f22?style=for-the-badge&logo=devpost&logoColor=e7a8e8" alt="Devpost" /></a>
+    <a href="https://www.linkedin.com/in/eqraa-khan/"><img src="https://img.shields.io/badge/LinkedIn-1b1a22?style=flat-square&logo=linkedin&logoColor=d8a9ba" alt="LinkedIn" /></a>
+    <a href="https://github.com/Eqraa-Khan"><img src="https://img.shields.io/badge/GitHub-1b1a22?style=flat-square&logo=github&logoColor=f5edf0" alt="GitHub" /></a>
+    <a href="https://devpost.com/eqraakhan3"><img src="https://img.shields.io/badge/Devpost-1b1a22?style=flat-square&logo=devpost&logoColor=d8a9ba" alt="Devpost" /></a>
   </p>
 </div>
 
-<div align="center">
-
-🌙 ✧ 🦇 ✧ 🎸 ✧ 🦇 ✧ 🌙
-
-</div>
-
-<details>
-  <summary>a little after hours</summary>
-  <br />
-  <p>Usually up late with music on and a project open. Here are a few places to start.</p>
-  <p align="center">
-    <a href="#-a-little-about-me"><img src="https://img.shields.io/badge/About_me-32143f?style=for-the-badge&logo=moonrepo&logoColor=f3caff" alt="About me" /></a>
-    <a href="#-selected-work"><img src="https://img.shields.io/badge/My_work-32143f?style=for-the-badge&logo=github&logoColor=f3caff" alt="My work" /></a>
-    <a href="#-in-my-toolkit"><img src="https://img.shields.io/badge/Toolkit-32143f?style=for-the-badge&logo=githubactions&logoColor=f3caff" alt="Toolkit" /></a>
-  </p>
-  <p align="center">🎸 Thanks for stopping by.</p>
-</details>
+---
 
 ## 🌒 a little about me
 
@@ -54,18 +40,32 @@ I like projects that bring people together or make a place feel a little safer a
 ## 🖤 in my toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Python-170f22?style=flat-square&logo=python&logoColor=e7a8e8" alt="Python" />
-  <img src="https://img.shields.io/badge/C-170f22?style=flat-square&logo=c&logoColor=e7a8e8" alt="C" />
-  <img src="https://img.shields.io/badge/R-170f22?style=flat-square&logo=r&logoColor=e7a8e8" alt="R" />
-  <img src="https://img.shields.io/badge/JavaScript-170f22?style=flat-square&logo=javascript&logoColor=e7a8e8" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/FastAPI-170f22?style=flat-square&logo=fastapi&logoColor=e7a8e8" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQLite-170f22?style=flat-square&logo=sqlite&logoColor=e7a8e8" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Scrapy-170f22?style=flat-square&logo=scrapy&logoColor=e7a8e8" alt="Scrapy" />
+  <img src="https://img.shields.io/badge/Python-1b1a22?style=flat-square&logo=python&logoColor=d8a9ba" alt="Python" />
+  <img src="https://img.shields.io/badge/C-1b1a22?style=flat-square&logo=c&logoColor=d8a9ba" alt="C" />
+  <img src="https://img.shields.io/badge/R-1b1a22?style=flat-square&logo=r&logoColor=d8a9ba" alt="R" />
+  <img src="https://img.shields.io/badge/JavaScript-1b1a22?style=flat-square&logo=javascript&logoColor=d8a9ba" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/FastAPI-1b1a22?style=flat-square&logo=fastapi&logoColor=d8a9ba" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/SQLite-1b1a22?style=flat-square&logo=sqlite&logoColor=d8a9ba" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Scrapy-1b1a22?style=flat-square&logo=scrapy&logoColor=d8a9ba" alt="Scrapy" />
 </p>
+
+## 📊 GitHub at a glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eqraa-Khan&show_icons=true&hide_border=true&bg_color=0d0b12&title_color=d8a9ba&text_color=f5edf0&icon_color=c084fc" alt="Eqraa's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eqraa-Khan&layout=compact&hide_border=true&bg_color=0d0b12&title_color=d8a9ba&text_color=f5edf0" alt="Most used languages" />
+</div>
+
+<details>
+  <summary>More GitHub activity</summary>
+  <br />
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=Eqraa-Khan&hide_border=true&background=0D0B12&ring=C084FC&fire=D8A9BA&currStreakLabel=F5EDF0&sideLabels=F5EDF0&currStreakNum=F5EDF0&sideNums=F5EDF0&dates=B8A9C9" alt="GitHub contribution streak" />
+  </div>
+</details>
 
 🏅 **U of T International Merit Admission Award** (2025)
 
 <div align="center">
-  <p>🌙 ✧ 🦇 ✧ 🎸 ✧ 🦇 ✧ 🌙</p>
   <sub>thanks for stopping by. always happy to connect, collaborate, or talk about a good game ✨</sub>
 </div>
