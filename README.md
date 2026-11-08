@@ -6,9 +6,9 @@
 
   <p><strong>Computer Science Specialist student at the University of Toronto</strong><br />Building things for people</p>
 
-  <a href="https://www.linkedin.com/in/eqraa-khan/"><img src="https://img.shields.io/badge/%20-%20-0B1A33?style=for-the-badge&logo=linkedin&logoColor=9CCBFF" alt="LinkedIn" /></a>
-  <a href="https://github.com/Eqraa-Khan"><img src="https://img.shields.io/badge/%20-%20-0B1A33?style=for-the-badge&logo=github&logoColor=EAF3FF" alt="GitHub" /></a>
-  <a href="https://devpost.com/eqraakhan3"><img src="https://img.shields.io/badge/%20-%20-0B1A33?style=for-the-badge&logo=devpost&logoColor=9CCBFF" alt="Devpost" /></a>
+  <a href="https://www.linkedin.com/in/eqraa-khan/"><img src="https://cdn.simpleicons.org/LinkedIn/9CCBFF" width="36" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Eqraa-Khan"><img src="https://cdn.simpleicons.org/GitHub/EAF3FF" width="36" height="36" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://devpost.com/eqraakhan3"><img src="https://cdn.simpleicons.org/Devpost/9CCBFF" width="36" height="36" alt="Devpost" /></a>
 </div>
 
 <p align="center"><img src="images/divider.gif" width="100%" height="20" alt="Midnight-blue divider" /></p>
