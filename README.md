@@ -1,65 +1,71 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11121a,55:30202f,100:704557&height=220&section=header&text=Eqraa%20Khan&fontSize=54&fontColor=f5edf0&animation=fadeIn&fontAlign=middle&fontFamily=Miasma&fontURL=https://www.fontspace.com/download/miasma/miasma.ttf" alt="Eqraa Khan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080611,45:24112f,75:4b1d59,100:9b4d79&height=240&section=header&text=Eqraa%20Khan&fontSize=58&fontColor=f7e9ff&animation=fadeIn&fontAlign=50&fontAlignY=38&fontFamily=Miasma&fontURL=https://www.fontspace.com/download/miasma/miasma.ttf" alt="Eqraa Khan" />
 
   <p>
-    <a href="https://www.linkedin.com/in/eqraa-khan/"><img src="https://img.shields.io/badge/LinkedIn-1b1a22?style=flat-square&logo=linkedin&logoColor=d8a9ba" alt="LinkedIn" /></a>
-    <a href="https://github.com/Eqraa-Khan"><img src="https://img.shields.io/badge/GitHub-1b1a22?style=flat-square&logo=github&logoColor=f5edf0" alt="GitHub" /></a>
-    <a href="https://devpost.com/eqraakhan3"><img src="https://img.shields.io/badge/Devpost-1b1a22?style=flat-square&logo=devpost&logoColor=d8a9ba" alt="Devpost" /></a>
+    <a href="https://www.linkedin.com/in/eqraa-khan/"><img src="https://img.shields.io/badge/LinkedIn-170f22?style=for-the-badge&logo=linkedin&logoColor=e7a8e8" alt="LinkedIn" /></a>
+    <a href="https://github.com/Eqraa-Khan"><img src="https://img.shields.io/badge/GitHub-170f22?style=for-the-badge&logo=github&logoColor=f4d7ff" alt="GitHub" /></a>
+    <a href="https://devpost.com/eqraakhan3"><img src="https://img.shields.io/badge/Devpost-170f22?style=for-the-badge&logo=devpost&logoColor=e7a8e8" alt="Devpost" /></a>
   </p>
 </div>
 
+<div align="center">
+
+🌙 ✧ 🦇 ✧ 🎸 ✧ 🦇 ✧ 🌙
+
+</div>
+
 <details>
-  <summary>🦇 Open Marceline’s midnight corner</summary>
+  <summary>a little after hours</summary>
   <br />
-  <p>A little Adventure Time-inspired night mode: midnight colors, vampire vibes, and a few places to wander.</p>
-  <p>
-    <a href="#-a-little-about-me">Meet me</a> ·
-    <a href="#-selected-work">Explore my work</a> ·
-    <a href="#-in-my-toolkit">Browse my toolkit</a> ·
-    <a href="https://www.tumblr.com/reechuillustrations/162212691424/marceline-the-vampire-queen-just-chillin-by-the">Marceline art inspiration</a>
+  <p>Some music, a bit of moonlight, and a few things I’ve been working on.</p>
+  <p align="center">
+    <a href="#-a-little-about-me"><img src="https://img.shields.io/badge/About_me-32143f?style=for-the-badge&logo=moonrepo&logoColor=f3caff" alt="About me" /></a>
+    <a href="#-selected-work"><img src="https://img.shields.io/badge/My_work-32143f?style=for-the-badge&logo=github&logoColor=f3caff" alt="My work" /></a>
+    <a href="#-in-my-toolkit"><img src="https://img.shields.io/badge/Toolkit-32143f?style=for-the-badge&logo=githubactions&logoColor=f3caff" alt="Toolkit" /></a>
   </p>
-  <p>🎸 Keep it spooky, keep it creative, and stay up for one more song.</p>
+  <p align="center">🎸 Thanks for stopping by.</p>
 </details>
 
 ## 🌒 a little about me
 
-Hi, I’m Eqraa — a Computer Science Specialist student at the **University of Toronto**, focused on **Technology Leadership** and minoring in **Critical Studies in Equity and Solidarity**.
+Hi, I’m Eqraa. I’m a Computer Science Specialist student at the **University of Toronto**, focused on **Technology Leadership** and minoring in **Critical Studies in Equity and Solidarity**.
 
-I’m drawn to the space where technology meets people: community development, game design, and projects that can help make environments safer and more accessible. I also love bringing people together through thoughtful, community-centered innovation.
+I’m interested in the ways technology brings people together, especially through community development, game design, and projects that make spaces safer and more accessible.
 
 ## 🕯️ what I’m up to
 
 - 🎉 **Events Coordinator** at [UDesign](https://www.linkedin.com/company/uoft-design/posts/?feedView=all)
-- 💬 **Community Developer — Communications & Content Creator** at [New College’s Office of Residence and Student Life](https://www.newcollege.utoronto.ca/student-experience/orsl/)
+- 💬 **Community Developer, Communications & Content Creator** at [New College’s Office of Residence and Student Life](https://www.newcollege.utoronto.ca/student-experience/orsl/)
 
 ## 🌙 selected work
 
-- 🫶 [**Silent Signal**](https://github.com/Eqraa-Khan/Silent-Signal) — An anonymous student check-in platform designed to surface the barriers students face. I built most of the full-stack product and user flows.
+- 🫶 [**Silent Signal**](https://github.com/Eqraa-Khan/Silent-Signal) - An anonymous student check-in platform designed to surface the barriers students face. I built most of the full-stack product and user flows.
   
   `Python` · `FastAPI` · `SQLite` · `JavaScript` · `Claude API`
 
-- 🎲 [**Board Game Recommender System**](https://github.com/Eqraa-Khan/Board-Game-Recommender-System) — A personalized board-game discovery project, using scraped data to help match games with player preferences.
+- 🎲 [**Board Game Recommender System**](https://github.com/Eqraa-Khan/Board-Game-Recommender-System) - A personalized board-game discovery project, using scraped data to help match games with player preferences.
   
   `Python` · `Scrapy` · `Web scraping`
 
-- 📚 [**Written Papers**](https://github.com/Eqraa-Khan/Written-Papers) — Essays and research on critical disability studies, colonial histories, South Asian families, and policy.
+- 📚 [**Written Papers**](https://github.com/Eqraa-Khan/Written-Papers) - Essays and research on critical disability studies, colonial histories, South Asian families, and policy.
 
-- ✈️ **ClickTravel** — An AI-powered travel planner that generates itineraries around a traveler’s budget and preferences. I worked on the backend and Gemini API integration. [Find it on my portfolio](https://www.linkedin.com/in/eqraa-khan/).
+- ✈️ **ClickTravel** - An AI-powered travel planner that generates itineraries around a traveler’s budget and preferences. I worked on the backend and Gemini API integration.
 
 ## 🖤 in my toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Python-1b1a22?style=flat-square&logo=python&logoColor=d8a9ba" alt="Python" />
-  <img src="https://img.shields.io/badge/C-1b1a22?style=flat-square&logo=c&logoColor=d8a9ba" alt="C" />
-  <img src="https://img.shields.io/badge/R-1b1a22?style=flat-square&logo=r&logoColor=d8a9ba" alt="R" />
-  <img src="https://img.shields.io/badge/JavaScript-1b1a22?style=flat-square&logo=javascript&logoColor=d8a9ba" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/FastAPI-1b1a22?style=flat-square&logo=fastapi&logoColor=d8a9ba" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQLite-1b1a22?style=flat-square&logo=sqlite&logoColor=d8a9ba" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Scrapy-1b1a22?style=flat-square&logo=scrapy&logoColor=d8a9ba" alt="Scrapy" />
+  <img src="https://img.shields.io/badge/Python-170f22?style=flat-square&logo=python&logoColor=e7a8e8" alt="Python" />
+  <img src="https://img.shields.io/badge/C-170f22?style=flat-square&logo=c&logoColor=e7a8e8" alt="C" />
+  <img src="https://img.shields.io/badge/R-170f22?style=flat-square&logo=r&logoColor=e7a8e8" alt="R" />
+  <img src="https://img.shields.io/badge/JavaScript-170f22?style=flat-square&logo=javascript&logoColor=e7a8e8" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/FastAPI-170f22?style=flat-square&logo=fastapi&logoColor=e7a8e8" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/SQLite-170f22?style=flat-square&logo=sqlite&logoColor=e7a8e8" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Scrapy-170f22?style=flat-square&logo=scrapy&logoColor=e7a8e8" alt="Scrapy" />
 </p>
 
 🏅 **U of T International Merit Admission Award** (2025)
 
 <div align="center">
-  <sub>thanks for stopping by — always happy to connect, collaborate, or talk about a good game ✨</sub>
+  <p>🌙 ✧ 🦇 ✧ 🎸 ✧ 🦇 ✧ 🌙</p>
+  <sub>thanks for stopping by. always happy to connect, collaborate, or talk about a good game ✨</sub>
 </div>
