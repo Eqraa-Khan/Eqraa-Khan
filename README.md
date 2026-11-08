@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11121a,55:30202f,100:704557&height=220&section=header&text=Eqraa%20Khan&fontSize=54&fontColor=f5edf0&animation=fadeIn&fontAlignY=38&desc=thoughtful%20technology%20%E2%80%A2%20creative%20communities&descAlignY=60&descSize=16" alt="Eqraa Khan — thoughtful technology and creative communities" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11121a,55:30202f,100:704557&height=220&section=header&text=Eqraa%20Khan&fontSize=54&fontColor=f5edf0&animation=fadeIn&fontAlign=middle&fontFamily=Miasma&fontURL=https://www.fontspace.com/download/miasma/miasma.ttf" alt="Eqraa Khan" />
 
   <p>
     <a href="https://www.linkedin.com/in/eqraa-khan/"><img src="https://img.shields.io/badge/LinkedIn-1b1a22?style=flat-square&logo=linkedin&logoColor=d8a9ba" alt="LinkedIn" /></a>
@@ -12,7 +12,7 @@
 
 Hi, I’m Eqraa — a Computer Science Specialist student at the **University of Toronto**, focused on **Technology Leadership** and minoring in **Critical Studies in Equity and Solidarity**.
 
-I’m drawn to the space where technology meets people: community development, game design, and projects that can help make environments safer and more accessible. I also love bringing people together through events and creative work.
+I’m drawn to the space where technology meets people: community development, game design, and projects that can help make environments safer and more accessible. I also love bringing people together through thoughtful, community-centered innovation.
 
 ## 🕯️ what I’m up to
 
@@ -21,17 +21,17 @@ I’m drawn to the space where technology meets people: community development, g
 
 ## 🌙 selected work
 
-- 🫶 [**Silent Signal**](https://github.com/Eqraa-Khan/Silent-Signal) — An anonymous student check-in platform designed to surface the barriers students face. I built most of the full-stack project, including a FastAPI and SQLite backend, Claude-powered analysis and chat, and a live data-visualization frontend.
+- 🫶 [**Silent Signal**](https://github.com/Eqraa-Khan/Silent-Signal) — An anonymous student check-in platform designed to surface the barriers students face. I built most of the full-stack product and user flows.
   
   `Python` · `FastAPI` · `SQLite` · `JavaScript` · `Claude API`
 
-- 🎲 [**Board Game Recommender System**](https://github.com/Eqraa-Khan/Board-Game-Recommender-System) — A personalized board-game discovery project, using scraped data to help match games with people’s preferences.
+- 🎲 [**Board Game Recommender System**](https://github.com/Eqraa-Khan/Board-Game-Recommender-System) — A personalized board-game discovery project, using scraped data to help match games with player preferences.
   
   `Python` · `Scrapy` · `Web scraping`
 
 - 📚 [**Written Papers**](https://github.com/Eqraa-Khan/Written-Papers) — Essays and research on critical disability studies, colonial histories, South Asian families, and policy.
 
-- ✈️ **ClickTravel** — An AI-powered travel planner that generates itineraries around a traveler’s budget and preferences. I worked on the backend and Gemini API integration. [Find it on my Devpost](https://devpost.com/eqraakhan3).
+- ✈️ **ClickTravel** — An AI-powered travel planner that generates itineraries around a traveler’s budget and preferences. I worked on the backend and Gemini API integration. [Find it on my portfolio](https://www.linkedin.com/in/eqraa-khan/).
 
 ## 🖤 in my toolkit
 
