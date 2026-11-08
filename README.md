@@ -17,7 +17,7 @@
 <details>
   <summary>a little after hours</summary>
   <br />
-  <p>Some music, a bit of moonlight, and a few things I’ve been working on.</p>
+  <p>Usually up late with music on and a project open. Here are a few places to start.</p>
   <p align="center">
     <a href="#-a-little-about-me"><img src="https://img.shields.io/badge/About_me-32143f?style=for-the-badge&logo=moonrepo&logoColor=f3caff" alt="About me" /></a>
     <a href="#-selected-work"><img src="https://img.shields.io/badge/My_work-32143f?style=for-the-badge&logo=github&logoColor=f3caff" alt="My work" /></a>
@@ -28,9 +28,9 @@
 
 ## 🌒 a little about me
 
-Hi, I’m Eqraa. I’m a Computer Science Specialist student at the **University of Toronto**, focused on **Technology Leadership** and minoring in **Critical Studies in Equity and Solidarity**.
+Hi, I’m Eqraa. I study Computer Science at the **University of Toronto**, with a focus on **Technology Leadership** and a minor in **Critical Studies in Equity and Solidarity**.
 
-I’m interested in the ways technology brings people together, especially through community development, game design, and projects that make spaces safer and more accessible.
+I like projects that bring people together or make a place feel a little safer and more accessible. I’m especially interested in community development, game design, and the human side of technology.
 
 ## 🕯️ what I’m up to
 
@@ -39,17 +39,17 @@ I’m interested in the ways technology brings people together, especially throu
 
 ## 🌙 selected work
 
-- 🫶 [**Silent Signal**](https://github.com/Eqraa-Khan/Silent-Signal) - An anonymous student check-in platform designed to surface the barriers students face. I built most of the full-stack product and user flows.
+- 🫶 [**Silent Signal**](https://github.com/Eqraa-Khan/Silent-Signal) - An anonymous student check-in platform about the barriers students face. I built most of the full-stack product and user flows.
   
   `Python` · `FastAPI` · `SQLite` · `JavaScript` · `Claude API`
 
-- 🎲 [**Board Game Recommender System**](https://github.com/Eqraa-Khan/Board-Game-Recommender-System) - A personalized board-game discovery project, using scraped data to help match games with player preferences.
+- 🎲 [**Board Game Recommender System**](https://github.com/Eqraa-Khan/Board-Game-Recommender-System) - A board game discovery project that uses scraped data to help people find their next game.
   
   `Python` · `Scrapy` · `Web scraping`
 
 - 📚 [**Written Papers**](https://github.com/Eqraa-Khan/Written-Papers) - Essays and research on critical disability studies, colonial histories, South Asian families, and policy.
 
-- ✈️ **ClickTravel** - An AI-powered travel planner that generates itineraries around a traveler’s budget and preferences. I worked on the backend and Gemini API integration.
+- ✈️ **ClickTravel** - An AI travel planner that builds itineraries around a traveler’s budget and preferences. I worked on the backend and Gemini API integration.
 
 ## 🖤 in my toolkit
 
