@@ -28,8 +28,8 @@ I like projects that bring people together or make a place feel safer and more a
 
 ## Selected work
 
-- **[Silent Signal](https://github.com/Eqraa-Khan/Silent-Signal)** - An anonymous student check-in platform about the barriers students face. I built most of the full-stack product and user flows.<br />`Python` • `FastAPI` • `SQLite` • `JavaScript` • `Claude API`
-- **[Board Game Recommender System](https://github.com/Eqraa-Khan/Board-Game-Recommender-System)** - A board game discovery project that uses scraped data to help people find their next game.<br />`Python` • `Scrapy` • `Web scraping`
+- **[Silent Signal](https://github.com/Eqraa-Khan/Silent-Signal)** - An anonymous student check-in platform about the barriers students face. I built most of the full-stack product and user flows.
+- **[Board Game Recommender System](https://github.com/Eqraa-Khan/Board-Game-Recommender-System)** - A board game discovery project that uses scraped data to help people find their next game.
 - **[Written Papers](https://github.com/Eqraa-Khan/Written-Papers)** - Essays and research on critical disability studies, colonial histories, South Asian families, and policy.
 - **ClickTravel** - An AI travel planner that builds itineraries around a traveler's budget and preferences. I worked on the backend and Gemini API integration.
 
@@ -46,15 +46,18 @@ I like projects that bring people together or make a place feel safer and more a
 
 ## GitHub at a glance
 
+These cards are generated from GitHub's public profile data and update automatically. They reflect public activity and may be cached briefly by the card service.
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=Eqraa-Khan&show_icons=true&hide_border=true&bg_color=0B1A33&title_color=9CCBFF&text_color=EAF3FF&icon_color=79B8F3" alt="Eqraa's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eqraa-Khan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1A33&title_color=9CCBFF&text_color=EAF3FF&icon_color=79B8F3" alt="GitHub profile statistics for Eqraa Khan" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eqraa-Khan&layout=compact&hide_border=true&bg_color=0B1A33&title_color=9CCBFF&text_color=EAF3FF" alt="Most-used languages in Eqraa Khan's public repositories" />
 </div>
 
 <details>
   <summary><strong>More GitHub activity</strong></summary>
   <br />
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Eqraa-Khan&hide_border=true&background=0B1A33&ring=79B8F3&fire=9CCBFF&currStreakLabel=EAF3FF&sideLabels=EAF3FF&currStreakNum=EAF3FF&sideNums=EAF3FF&dates=92A9C3" alt="GitHub contribution streak" />
+    <img src="https://streak-stats.demolab.com?user=Eqraa-Khan&hide_border=true&background=0B1A33&ring=79B8F3&fire=9CCBFF&currStreakLabel=EAF3FF&sideLabels=EAF3FF&currStreakNum=EAF3FF&sideNums=EAF3FF&dates=9CCBFF" alt="GitHub contribution streak for Eqraa Khan" />
   </div>
 </details>
 
