@@ -7,7 +7,7 @@
   <p><strong>Computer Science Specialist student at the University of Toronto</strong><br />Building things for people</p>
   <p align="center">
   <a href="https://www.linkedin.com/in/eqraa-khan/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/bi/linkedin.svg?color=%230A66C2"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/bi/linkedin.svg?color=%230A66C2"><img alt="LinkedIn" src="https://api.iconify.design/bi/linkedin.svg?color=%230A66C2" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Eqraa-Khan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github"><img alt="GitHub" src="https://cdn.simpleicons.org/github" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Eqraa-Khan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/7D8590"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"><img alt="GitHub" src="https://cdn.simpleicons.org/github/181717" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
   <a href="https://devpost.com/eqraakhan3"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/devpost/1E96C8"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/devpost"><img alt="Devpost" src="https://cdn.simpleicons.org/devpost" width="36" height="36"></picture></a>
 </p>
   <p align="center"><img src="images/divider.gif" width="100%" height="20" alt="Midnight-blue divider" /></p>
