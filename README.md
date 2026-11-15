@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/217a2729f20cc23582f4108f3b18b49d/tumblr_os2lw9wib91ua3qmvo1_1280.gifv" width="100%" alt="Animated profile header" />
 
-  <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=48&color=%23EAF3FF&background=0B1A33&height=76&duration=3000&pause=900&center=true&vCenter=true&width=700&lines=Eqraa+Khan" alt="Eqraa Khan" />
+  
 
   <p><strong>Computer Science Specialist student at the University of Toronto</strong><br />Building things for people</p>
   <p align="center">
