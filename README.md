@@ -44,19 +44,7 @@ I like projects that bring people together or make a place feel safer and more a
   <img src="https://img.shields.io/badge/Scrapy-0B1A33?style=flat-square&logo=scrapy&logoColor=9CCBFF" alt="Scrapy" />
 </div>
 
-## GitHub at a glance
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=Eqraa-Khan&show_icons=true&hide_border=true&bg_color=0B1A33&title_color=9CCBFF&text_color=EAF3FF&icon_color=79B8F3" alt="GitHub profile statistics for Eqraa Khan" />
-</div>
-
-<details>
-  <summary><strong>More GitHub activity</strong></summary>
-  <br />
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Eqraa-Khan&hide_border=true&background=0B1A33&ring=79B8F3&fire=9CCBFF&currStreakLabel=EAF3FF&sideLabels=EAF3FF&currStreakNum=EAF3FF&sideNums=EAF3FF&dates=9CCBFF" alt="GitHub contribution streak for Eqraa Khan" />
-  </div>
-</details>
 
 ## Recognition
 
