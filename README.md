@@ -6,10 +6,10 @@
 
   <p><strong>Computer Science Specialist student at the University of Toronto</strong><br />Building things for people</p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/eqraa-khan/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/bi/linkedin.svg?color=%2370B5F9"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/bi/linkedin.svg?color=%230A66C2"><img alt="LinkedIn" title="LinkedIn" src="https://api.iconify.design/bi/linkedin.svg?color=%230A66C2" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Eqraa-Khan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/EAF3FF"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"><img alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/181717" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://devpost.com/eqraakhan3"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/devpost/9CCBFF"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/devpost/003E54"><img alt="Devpost" title="Devpost" src="https://cdn.simpleicons.org/devpost/003E54" width="36" height="36"></picture></a>
-  </p>
+  <a href="https://www.linkedin.com/in/eqraa-khan/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/bi/linkedin.svg?color=%2370B5F9"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/bi/linkedin.svg?color=%230A66C2"><img alt="LinkedIn" src="https://api.iconify.design/bi/linkedin.svg?color=%230A66C2" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Eqraa-Khan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/EAF3FF"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"><img alt="GitHub" src="https://cdn.simpleicons.org/github/181717" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://devpost.com/eqraakhan3"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/devpost/9CCBFF"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/devpost/003E54"><img alt="Devpost" src="https://cdn.simpleicons.org/devpost/003E54" width="36" height="36"></picture></a>
+</p>
   <p align="center"><img src="images/divider.gif" width="100%" height="20" alt="Midnight-blue divider" /></p>
 </div>
 
@@ -35,8 +35,12 @@ I like projects that bring people together or make a place feel safer and more a
 
 ## 🛠️ Toolkit
 
-<div align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/5FA8D3"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/3776AB"><img alt="Python" title="Python" src="https://cdn.simpleicons.org/python/3776AB" width="38" height="38"></picture>&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/c/70B5F9"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/c/00599C"><img alt="C" title="C" src="https://cdn.simpleicons.org/c/00599C" width="38" height="38"></picture>&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/r/70B5F9"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/r/276DC3"><img alt="R" title="R" src="https://cdn.simpleicons.org/r/276DC3" width="38" height="38"></picture>&nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/F7DF1E"><source media="(prefers-color-scheme: light)" srcset="
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python"><img alt="Python" src="https://cdn.simpleicons.org/python" width="36" height="36"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/c"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/c/00599C"><img alt="C" src="https://cdn.simpleicons.org/c/00599C" width="36" height="36"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/r"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/r"><img alt="R" src="https://cdn.simpleicons.org/r" width="36" height="36"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/javascript"><img alt="JavaScript" src="https://cdn.simpleicons.org/javascript" width="36" height="36"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastapi"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/fastapi"><img alt="FastAPI" src="https://cdn.simpleicons.org/fastapi" width="36" height="36"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/44A8D8"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite"><img alt="SQLite" src="https://cdn.simpleicons.org/sqlite" width="36" height="36"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/scrapy"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/scrapy"><img alt="Scrapy" src="https://cdn.simpleicons.org/scrapy" width="36" height="36"></picture>
+</p>
