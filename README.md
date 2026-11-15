@@ -5,30 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=48&color=%23EAF3FF&background=0B1A33&height=76&duration=3000&pause=900&center=true&vCenter=true&width=700&lines=Eqraa+Khan" alt="Eqraa Khan" />
 
   <p><strong>Computer Science Specialist student at the University of Toronto</strong><br />Building things for people</p>
-<p>
-  <a href="https://www.linkedin.com/in/eqraa-khan/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/bi/linkedin.svg?color=%2370B5F9">
-      <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/bi/linkedin.svg?color=%230A66C2">
-      <img alt="LinkedIn" src="https://api.iconify.design/bi/linkedin.svg?color=%230A66C2" width="36" height="36">
-    </picture>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Eqraa-Khan">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/EAF3FF">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-      <img alt="GitHub" src="https://cdn.simpleicons.org/github/181717" width="36" height="36">
-    </picture>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://devpost.com/eqraakhan3">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/devpost/9CCBFF">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/devpost/003E54">
-      <img alt="Devpost" src="https://cdn.simpleicons.org/devpost/003E54" width="36" height="36">
-    </picture>
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eqraa-khan/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/bi/linkedin.svg?color=%2370B5F9"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/bi/linkedin.svg?color=%230A66C2"><img alt="LinkedIn" src="https://api.iconify.design/bi/linkedin.svg?color=%230A66C2" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Eqraa-Khan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/EAF3FF"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"><img alt="GitHub" src="https://cdn.simpleicons.org/github/181717" width="36" height="36"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://devpost.com/eqraakhan3"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/devpost/9CCBFF"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/devpost/003E54"><img alt="Devpost" src="https://cdn.simpleicons.org/devpost/003E54" width="36" height="36"></picture></a>
 </p>
-
 <p align="center"><img src="images/divider.gif" width="100%" height="20" alt="Midnight-blue divider" /></p>
 
 ---
